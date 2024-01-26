@@ -1,4 +1,4 @@
-# End-to-end-ML-Project om "Wine Quality".
+# End-to-end-ML-Project on "Wine Quality".
 
 
 ## Workflows
